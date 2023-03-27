@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamkumar90)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Shubham kumar's github stats](https://github-readme-stats.vercel.app/api?username=Shubhamkumar90&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Shubham kumar's github stats](https://github-readme-stats.vercel.app/api?username=Shubhamkumar90&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) -->
+![Shubham Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubhamkumar90&show_icons=true&theme=radical)
 
