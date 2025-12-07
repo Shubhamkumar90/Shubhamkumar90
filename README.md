@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, I'm shubham kumar</h1>
+<h1 align="center"> Hi there 👋, I'm Shubham Kumar</h1>
 
 ## 🌱 About Me
 
